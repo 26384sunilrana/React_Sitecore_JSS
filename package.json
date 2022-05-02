@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sitecore-jss/sitecore-jss-react": "^19.0.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\reactdemo",
+    "\\reactdemo\\sitecore",
+    "\\reactdemo\\sitecore\\definitions",
+    "\\reactdemo\\sitecore\\definitions\\components",
+    "\\reactdemo\\src",
+    "\\reactdemo\\src\\components",
+    "\\reactdemo\\src\\components\\PromoComponent",
+    "\\reactdemo\\src\\components\\Styleguide-ComponentParams"
+  ],
+  "SelectedNode": "\\reactdemo\\src\\components\\PromoComponent\\index.js",
+  "PreviewInSolutionExplorer": false
+}
